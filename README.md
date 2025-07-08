@@ -9,7 +9,7 @@ A simple personal website with a pastel pink background, pastel yellow button, a
 - HTML5  
 - CSS3  
 - Visual Studio Code  
-- (Optional) Live Server extension
+
 
 ## How to View the Website
 
