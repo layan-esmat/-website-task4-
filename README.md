@@ -16,4 +16,5 @@ A simple personal website with a pastel pink background, pastel yellow button, a
 1. Download or clone the project folder  
 2. Open the folder in Visual Studio Code  
 3. Open `index.html` in a web browser or use Live Server to preview
+![Website Screenshot](output.png)
 
