@@ -1,0 +1,31 @@
+/* Page background */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffe6f0; /* pastel pink */
+  color: #333;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Button style */
+button {
+  background-color: #fff9c4; /* pastel yellow */
+  color: #333;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+button:hover {
+  background-color: #fff59d; /* slightly deeper yellow */
+}
+img {
+  border-radius: 50%; /* Makes it a circle */
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
