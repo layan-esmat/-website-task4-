@@ -1,5 +1,8 @@
 # -website-task4-
 this repository contains the files and output to a website using VScode
+
+![Website Screenshot](output.png)
+
 # Layan's Personal Website
 
 A simple personal website with a pastel pink background, pastel yellow button, and a profile image. Built using HTML and CSS.
@@ -16,5 +19,5 @@ A simple personal website with a pastel pink background, pastel yellow button, a
 1. Download or clone the project folder  
 2. Open the folder in Visual Studio Code  
 3. Open `index.html` in a web browser or use Live Server to preview
-![Website Screenshot](output.png)
+
 
